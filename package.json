@@ -2,13 +2,13 @@
   "name": "dweb-canvas",
   "version": "1.0.0",
   "description": "a canvas framework",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "canvas"
   ],
-  "author": "dweb",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/412845222/dweb-canvas"
+  },
+  "author": "dwebnine",
   "license": "ISC"
 }
